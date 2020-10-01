@@ -1,5 +1,4 @@
-Blur
-
+Blur - Pyongyang
 I look down from my window
 To the island where I'm held
 Listen while you're sleeping
